@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WanAndroid</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">文章</string>
+    <string name="title_dashboard">知识体系</string>
+    <string name="title_notifications">我的</string>
+</resources>
